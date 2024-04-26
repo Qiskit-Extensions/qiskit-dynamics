@@ -45,3 +45,4 @@ from . import models
 from . import signals
 from . import pulse
 from . import backend
+from . import compute_utils
